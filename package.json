@@ -9,6 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource/alfa-slab-one": "^5.2.8",
+    "@fontsource/bungee-inline": "^5.2.8",
+    "@fontsource/fugaz-one": "^5.2.7",
+    "@fontsource/ultra": "^5.2.7",
     "astro": "^5.14.1"
   }
 }
